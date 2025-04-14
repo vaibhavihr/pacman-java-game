@@ -148,9 +148,11 @@ java -cp ".:postgresql-<version>.jar" App
 
 ## 📸 Screenshots
 
-![Game Start](screenshots/gamerestart.png)
-![Game Play](screenshots/gameplay.png)
+![Player entry](screenshots/user.png)
+![Game Start](screenshots/gamestart.png)
+![Game Score](screenshots/scoreboard.png)
 ![Leaderboard](screenshots/leaderboard.png)
+![Game ReStart](screenshots/gamerestart.png)
 
 ---
 
