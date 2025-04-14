@@ -173,8 +173,8 @@ java -cp ".:postgresql-<version>.jar" App
 **Vaibhavi H R**  
 BSc Data Science, RV University  
 📧 [vaibhavihr1@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/vaibhav-h-r/)  
-🔗 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavi-h-r/)  
+🔗 [GitHub](https://github.com/vaibhavihr)
 
 ---
 
