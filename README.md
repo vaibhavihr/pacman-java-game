@@ -148,13 +148,9 @@ java -cp ".:postgresql-<version>.jar" App
 
 ## 📸 Screenshots
 
-> _Add these image files in a `screenshots/` folder and update filenames as needed._
-
-```markdown
 ![Game Start](screenshots/gamerestart.png)
 ![Game Play](screenshots/gameplay.png)
 ![Leaderboard](screenshots/leaderboard.png)
-```
 
 ---
 
